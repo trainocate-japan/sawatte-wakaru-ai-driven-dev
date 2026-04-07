@@ -22,4 +22,4 @@
 ## 使用方法
 1. このリポジトリをテンプレートとして「Use this template」から自分のリポジトリを作成
 2. 各演習ディレクトリ内の `README.md` に従って進める
-3. 成果物を `deliverables-template.md` にまとめ、Pull Requestで提出
+（3. 成果物を `deliverables-template.md` にまとめ、Pull Requestで提出）
