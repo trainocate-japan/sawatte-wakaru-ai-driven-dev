@@ -1,25 +1,37 @@
 # さわってわかるAI駆動開発
 
 このリポジトリは、生成AIを活用したソフトウェア開発を体験的に学ぶ研修用教材です。
-要件定義から設計、実装までを通して「AI駆動開発（AI-Driven Development）」の流れを体験します。
+要件定義から設計、実装、テスト、ドキュメント作成までを通して「AI駆動開発（AI-Driven Development）」の流れを体験します。
+
+初めてAI駆動開発を行う初学者でも短時間で取り組みやすいように、各演習は**50分以内**で進められる分量に調整しています。
+方針は、**対象を絞る・AIにたたき台を作らせる・人は確認と最低限の修正に集中する**ことです。
 
 ## 演習一覧
-| 演習 | 内容 | 
-|------|------|
-| [01 要件定義（オンライン予約管理）](exercises/01-requirements-online-booking) | 生成AIを活用した要件定義 |
-| [02 仕様書作成（オンライン予約管理）](exercises/02-specification-online-booking) | 要件をもとに仕様書作成 |
-| [03 設計（オンライン予約管理）](exercises/03-design-online-booking) | 要件と仕様書をもとにER設計 |
-| [04 実装（オンライン予約管理）](exercises/04-implementation-online-booking) | AI支援で実装|
-| [05 テスト（オンライン予約管理）](exercises/05-test-online-booking) | AI支援でテスト |
-| [06 ドキュメント作成（オンライン予約管理）](exercises/06-documentation-online-booking) | AI支援でドキュメント作成 |
+| 演習 | 内容 | 標準時間 |
+|------|------|------|
+| [01 要件定義（オンライン予約管理）](exercises/01-requirements-online-booking) | 生成AIを活用した要件定義 | 45分 |
+| [02 仕様書作成（オンライン予約管理）](exercises/02-specification-online-booking) | 要件をもとに仕様書作成 | 45分 |
+| [03 設計（オンライン予約管理）](exercises/03-design-online-booking) | 要件と仕様書をもとに設計メモ作成 | 45分 |
+| [04 実装（オンライン予約管理）](exercises/04-implementation-online-booking) | AI支援で最小実装 | 50分 |
+| [05 テスト（オンライン予約管理）](exercises/05-test-online-booking) | AI支援でテスト | 40分 |
+| [06 ドキュメント作成（オンライン予約管理）](exercises/06-documentation-online-booking) | AI支援でドキュメント作成 | 30分 |
 
 ---
 ## 学習目標
 - AIを活用してソフトウェア開発の各工程を効率化する体験を通じ、AIとの協働を理解する
 - 各工程におけるAI活用の利点・リスク・限界を実感的に学ぶ
+- 初学者でも、最小構成で一連の開発サイクルを回せるようになる
+
+---
+## この教材の進め方
+- 各演習では、**主要な対象を2〜3個に絞る**
+- AIにはまず**たたき台作成**を依頼する
+- 人は**妥当性確認・優先順位づけ・最低限の修正**に集中する
+- 網羅性より、**短時間で一連の流れを体験すること**を優先する
 
 ---
 ## 使用方法
 1. このリポジトリをテンプレートとして「Use this template」から自分のリポジトリを作成
 2. 各演習ディレクトリ内の `README.md` に従って進める
-3. 成果物を `deliverables-template.md` にまとめ、Pull Requestで提出
+3. 成果物を `deliverables-template.md` をもとに `deliverables-<team>.md` にまとめる
+4. Pull Request などで提出・共有する
