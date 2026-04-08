@@ -58,7 +58,6 @@
 
 ## 参照
 - `scenario.md`：演習シナリオ
-- `inputs.md`：必要に応じて追加情報を記入
 - `tasks.md`：演習の手順と問い
 - `prompts.md`：推奨プロンプト集
 - `deliverables-template.md`：成果物テンプレート
