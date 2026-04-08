@@ -65,7 +65,6 @@
 4. `evaluation-rubric.md` を使って自己評価する
 
 ## 参照
-- `inputs.md`：演習01の成果を貼り付けて利用
 - `tasks.md`：演習の手順と問い
 - `prompts.md`：推奨プロンプト集
 - `deliverables-template.md`：成果物テンプレート
