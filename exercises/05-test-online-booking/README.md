@@ -22,8 +22,7 @@
 - 通過・失敗・保留の記録
 
 ## 手順
-1. `inputs.md` に演習04の実装内容と確認したいコードを貼り付ける
-2. `tasks.md` に沿ってテストを作成・実行する
-3. `prompts.md` を必要に応じて使う
-4. `deliverables-<team>.md` に結果をまとめる
-5. `evaluation-rubric.md` で自己評価する
+1. `tasks.md` に沿ってテストを作成・実行する
+2. `prompts.md` を必要に応じて使う
+3. `deliverables-<team>.md` に結果をまとめる
+4. `evaluation-rubric.md` で自己評価する
