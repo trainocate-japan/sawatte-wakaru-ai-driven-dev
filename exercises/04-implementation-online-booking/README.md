@@ -67,15 +67,12 @@
    - 人が判断した点
 
 ## 手順
-1. `inputs.md` に演習01〜03の成果物を貼り付ける
-2. `tasks.md` に沿って演習を進める
-3. 必要に応じて `prompts.md` のプロンプトを使う
-4. `deliverables-<team>.md` に実装結果をまとめる
-5. `evaluation-rubric.md` を使って自己評価する
+1. `tasks.md` に沿って演習を進める
+2. 必要に応じて `prompts.md` のプロンプトを使う
+3. `deliverables-<team>.md` に実装結果をまとめる
+4. `evaluation-rubric.md` を使って自己評価する
 
 ## 参照
-- `scenario.md`：この演習で想定する実装方針と前提
-- `inputs.md`：演習01〜03の成果物を貼り付けて利用
 - `tasks.md`：演習の手順と問い
 - `prompts.md`：推奨プロンプト集
 - `deliverables-template.md`：成果物テンプレート
