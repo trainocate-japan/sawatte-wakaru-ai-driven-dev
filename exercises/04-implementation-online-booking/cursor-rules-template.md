@@ -1,4 +1,4 @@
-# Cursorルール設定例（そのまま貼れる雛形）
+# Cursorルール設定例
 
 このファイルは、演習04で使う **Cursor のコーディングルール例** です。  
 チームで少し調整したうえで、そのまま Cursor の Rules / Project Instructions に貼り付けて使えます。
