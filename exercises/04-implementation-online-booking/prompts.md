@@ -48,7 +48,7 @@
 
 以下は Cursor の Agent で使う想定です。
 
-@Files inputs.md （あるいは、@Files 01~03までの　deliverables-template.md）
+@Files （01~03までの　deliverables-template.md）
 
 オンライン予約システムの最小実装を作ってください。  
 今回は以下を実装対象にします。
