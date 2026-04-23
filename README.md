@@ -12,8 +12,3 @@
 | [04 実装（オンライン予約管理）](exercises/04-implementation-online-booking) | AI支援で実装|
 | [05 テスト（オンライン予約管理）](exercises/05-test-online-booking) | AI支援でテスト |
 | [06 ドキュメント作成（オンライン予約管理）](exercises/06-documentation-online-booking) | AI支援でドキュメント作成 |
-
----
-## 学習目標
-- AIを活用してソフトウェア開発の各工程を効率化する体験を通じ、AIとの協働を理解する
-- 各工程におけるAI活用の利点・リスク・限界を実感的に学ぶ
